@@ -237,7 +237,7 @@ a {
 
 .wrap_container > .main > .businesscard > .info > .content p {
     margin-bottom: 5px;
-    font-size: 1.8rem;
+    font-size: 2rem;
     line-height: 1.5;
     color: #1abc9c;
 }
@@ -246,10 +246,10 @@ a {
     /* margin-left: 20px;
     width: 130px;
     height: 130px; */
-    flex: 0 0 90px;
+    flex: 0 0 29%;
 }
 
-.wrap_container > .main > .businesscard > .qrcode > img {
+.wrap_container > .main > .businesscard > .qrcode img {
     max-height: 100%;
     max-width: 100%;
     vertical-align: middle;
